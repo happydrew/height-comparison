@@ -115,3 +115,9 @@ Our height comparison tool represents the most comprehensive solution for all yo
 Start creating your height comparison charts today and discover the power of visual height analysis. Join thousands of users who rely on our platform for accurate, engaging height comparisons that bring numerical data to life.
 
 [**Try the Height Comparison Tool Now →**](https://compareheights.org)
+
+## Related Links
+
+- [GitHub](https://github.com/happydrew/height-comparison) - Report bugs, request features, and provide feedback
+- [Twitter/X](https://x.com/compareheights) - Follow us for updates and height comparison tips
+- [YouTube](https://www.youtube.com/@compareheights) - Watch tutorials and comparison videos
