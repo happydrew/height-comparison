@@ -118,6 +118,8 @@ Start creating your height comparison charts today and discover the power of vis
 
 ## Related Links
 
-- [GitHub](https://github.com/happydrew/height-comparison) - Report bugs, request features, and provide feedback
+- [GitHub](https://github.com/height-comparison/height-comparison) - Report bugs, request features, and provide feedback
 - [Twitter/X](https://x.com/compareheights) - Follow us for updates and height comparison tips
 - [YouTube](https://www.youtube.com/@compareheights) - Watch tutorials and comparison videos
+- [Pinterest](https://www.pinterest.com/CompareHeights_org/) - Follow our updates and discover new height comparison projects
+- [Bubbleapps](https://compareheightsorg.bubbleapps.io/version-test) - Learn more about our platform and get a free trial
